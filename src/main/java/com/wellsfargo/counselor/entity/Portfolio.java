@@ -48,3 +48,4 @@ public class Portfolio {
         this.creationDate = creationDate;
     }
 }
+
